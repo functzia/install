@@ -1,0 +1,16 @@
+{
+  "name": "@fofx/install",
+  "version": "1.0.0",
+  "description": "Install npm dependencies to local disk",
+  "main": "index.js",
+  "repository": "git@github.com:functzia/install.git",
+  "author": "oakfang <oakfang@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dev-null": "^0.1.1",
+    "mkdirp": "^0.5.1",
+    "npm": "^6.9.0",
+    "pacote": "^9.5.0",
+    "rimraf": "^2.6.3"
+  }
+}
